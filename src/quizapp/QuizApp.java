@@ -55,3 +55,38 @@ public class QuizApp {
     }
     
 }
+
+
+//import java.util.Scanner;     
+//public class StudentManagementSystem {
+//     String name;
+//    int Marks1;
+//    int Marks2;
+//    int Marks3;
+//   double Average;
+//   String grade;
+//   
+//    
+//    public double getAverage(){
+//        Average = (Marks1 + Marks2 +Marks3) /3;
+//        return Average;
+//    }
+//   public void getGrade(){
+//    
+// if (Average >= 80 ){
+//    grade = "A";       
+//   }else if (Average >=60){
+//       grade = "B";
+//   }else if (Average >=40){
+//       grade = "C";
+//   }else {
+//       grade ="fail";
+//   }
+//}
+//    public static void main(String[] args) {
+//        // TODO code application logic here
+//        
+//            
+//        }
+//        }
+//    
